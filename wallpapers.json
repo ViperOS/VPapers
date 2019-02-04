@@ -1,0 +1,42 @@
+{
+  "Collections": [
+    {
+      "name": "Light",
+      "preview_url": "https://raw.githubusercontent.com/JBCDroid2/VPapers/vpapers/Light/wall1.jpg",
+      "preview_thumbnail_url": "https://raw.githubusercontent.com/JBCDroid2/VPapers/vpapers/Light/wall1.jpg"
+    },
+    {
+      "name": "Dark",
+      "preview_url": "https://raw.githubusercontent.com/JBCDroid2/VPapers/vpapers/Dark/wall1.jpg",
+      "preview_thumbnail_url": "https://raw.githubusercontent.com/JBCDroid2/VPapers/vpapers/Dark/wall1.jpg"
+    },
+    {
+      "name": "Colorful",
+      "preview_url": "https://raw.githubusercontent.com/JBCDroid2/VPapers/vpapers/Colorful/wall1.jpg",
+      "preview_thumbnail_url": "https://raw.githubusercontent.com/JBCDroid2/VPapers/vpapers/Colorful/wall1.jpg"
+    }
+  ],
+  "Wallpapers": [
+    {
+      "name": "Wallpaper 1",
+      "author": "Kley76",
+      "url": "https://raw.githubusercontent.com/JBCDroid2/VPapers/vpapers/Light/wall1.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/JBCDroid2/VPapers/vpapers/Light/wall1.jpg",
+      "collections": "light"
+    },
+    {
+      "name": "Wallpaper 2",
+      "author": "Odin Flores",
+      "url": "https://raw.githubusercontent.com/JBCDroid2/VPapers/vpapers/Dark/wall1.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/JBCDroid2/VPapers/vpapers/Dark/wall1.jpg",
+      "collections": "dark"
+    },
+    {
+      "name": "Wallpaper 3",
+      "author": "JUANHDA MCX",
+      "url": "https://raw.githubusercontent.com/JBCDroid2/VPapers/vpapers/Colorful/wall1.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/JBCDroid2/VPapers/vpapers/Colorful/wall1.jpg",
+      "collections": "colorful"
+    }
+  ]
+}
