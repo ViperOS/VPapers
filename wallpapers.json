@@ -79,6 +79,13 @@
       "collections": "viperosteam"
     },
     {
+      "name": "Wallpaper 9",
+      "author": "Esrom Tech",
+      "url": "https://raw.githubusercontent.com/ViperOS/VPapers/vpapers/ViperOSTeam/wall9.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/ViperOS/VPapers/vpapers/ViperOSTeam/wall9.jpg",
+      "collections": "viperosteam"
+    },
+    {
       "name": "Wallpaper light 1",
       "author": "Kley76",
       "url": "https://raw.githubusercontent.com/ViperOS/VPapers/vpapers/Light/wall1.jpg",
@@ -100,6 +107,41 @@
       "collections": "light"
     },
     {
+      "name": "Wallpaper light 4",
+      "author": "WSTxda",
+      "url": "https://raw.githubusercontent.com/ViperOS/VPapers/vpapers/Light/wall4.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/ViperOS/VPapers/vpapers/Light/wall4.jpg",
+      "collections": "light"
+    },
+    {
+      "name": "Wallpaper light 5",
+      "author": "WSTxda",
+      "url": "https://raw.githubusercontent.com/ViperOS/VPapers/vpapers/Light/wall5.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/ViperOS/VPapers/vpapers/Light/wall5.jpg",
+      "collections": "light"
+    },
+    {
+      "name": "Wallpaper light 6",
+      "author": "Rahul Singh",
+      "url": "https://raw.githubusercontent.com/ViperOS/VPapers/vpapers/Light/wall6.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/ViperOS/VPapers/vpapers/Light/wall6.jpg",
+      "collections": "light"
+    },
+    {
+      "name": "Wallpaper light 7",
+      "author": "Rahul Singh",
+      "url": "https://raw.githubusercontent.com/ViperOS/VPapers/vpapers/Light/wall7.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/ViperOS/VPapers/vpapers/Light/wall7.jpg",
+      "collections": "light"
+    },
+    {
+      "name": "Wallpaper light 8",
+      "author": "Rahul Singh",
+      "url": "https://raw.githubusercontent.com/ViperOS/VPapers/vpapers/Light/wall8.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/ViperOS/VPapers/vpapers/Light/wall8.jpg",
+      "collections": "light"
+    },
+    {
       "name": "Wallpaper dark 1",
       "author": "Odin Flores",
       "url": "https://raw.githubusercontent.com/ViperOS/VPapers/vpapers/Dark/wall1.jpg",
@@ -112,34 +154,6 @@
       "url": "https://raw.githubusercontent.com/ViperOS/VPapers/vpapers/Dark/wall2.jpg",
       "thumbnail": "https://raw.githubusercontent.com/ViperOS/VPapers/vpapers/Dark/wall2.jpg",
       "collections": "dark"
-    },
-    {
-      "name": "Wallpaper colorful 1",
-      "author": "JUANHDA MCX",
-      "url": "https://raw.githubusercontent.com/ViperOS/VPapers/vpapers/Colorful/wall1.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/ViperOS/VPapers/vpapers/Colorful/wall1.jpg",
-      "collections": "colorful"
-    },
-    {
-      "name": "Wallpaper colorful 2",
-      "author": "Esrom Tech",
-      "url": "https://raw.githubusercontent.com/ViperOS/VPapers/vpapers/Colorful/wall2.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/ViperOS/VPapers/vpapers/Colorful/wall2.jpg",
-      "collections": "colorful"
-    },
-    {
-      "name": "Wallpaper colorful 3",
-      "author": "LouuZ",
-      "url": "https://raw.githubusercontent.com/ViperOS/VPapers/vpapers/Colorful/wall3.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/ViperOS/VPapers/vpapers/Colorful/wall3.jpg",
-      "collections": "colorful"
-    },
-    {
-      "name": "Wallpaper 9",
-      "author": "Esrom Tech",
-      "url": "https://raw.githubusercontent.com/ViperOS/VPapers/vpapers/ViperOSTeam/wall9.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/ViperOS/VPapers/vpapers/ViperOSTeam/wall9.jpg",
-      "collections": "viperosteam"
     },
     {
       "name": "Wallpaper dark 3",
@@ -177,39 +191,74 @@
       "collections": "dark"
     },
     {
-      "name": "Wallpaper light 4",
-      "author": "WSTxda",
-      "url": "https://raw.githubusercontent.com/ViperOS/VPapers/vpapers/Light/wall4.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/ViperOS/VPapers/vpapers/Light/wall4.jpg",
-      "collections": "light"
+      "name": "Wallpaper dark 8",
+      "author": "Sourav Gope",
+      "url": "https://raw.githubusercontent.com/ViperOS/VPapers/vpapers/Dark/wall8.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/ViperOS/VPapers/vpapers/Dark/wall8.jpg",
+      "collections": "dark"
     },
     {
-      "name": "Wallpaper light 5",
-      "author": "WSTxda",
-      "url": "https://raw.githubusercontent.com/ViperOS/VPapers/vpapers/Light/wall5.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/ViperOS/VPapers/vpapers/Light/wall5.jpg",
-      "collections": "light"
+      "name": "Wallpaper dark 9",
+      "author": "Sourav Gope",
+      "url": "https://raw.githubusercontent.com/ViperOS/VPapers/vpapers/Dark/wall9.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/ViperOS/VPapers/vpapers/Dark/wall9.jpg",
+      "collections": "dark"
     },
     {
-      "name": "Wallpaper light 6",
-      "author": "Rahul Singh",
-      "url": "https://raw.githubusercontent.com/ViperOS/VPapers/vpapers/Light/wall6.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/ViperOS/VPapers/vpapers/Light/wall6.jpg",
-      "collections": "light"
+      "name": "Wallpaper dark 10",
+      "author": "Sourav Gope",
+      "url": "https://raw.githubusercontent.com/ViperOS/VPapers/vpapers/Dark/wall10.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/ViperOS/VPapers/vpapers/Dark/wall10.jpg",
+      "collections": "dark"
     },
     {
-      "name": "Wallpaper light 7",
-      "author": "Rahul Singh",
-      "url": "https://raw.githubusercontent.com/ViperOS/VPapers/vpapers/Light/wall7.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/ViperOS/VPapers/vpapers/Light/wall7.jpg",
-      "collections": "light"
+      "name": "Wallpaper colorful 1",
+      "author": "JUANHDA MCX",
+      "url": "https://raw.githubusercontent.com/ViperOS/VPapers/vpapers/Colorful/wall1.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/ViperOS/VPapers/vpapers/Colorful/wall1.jpg",
+      "collections": "colorful"
     },
     {
-      "name": "Wallpaper light 8",
-      "author": "Rahul Singh",
-      "url": "https://raw.githubusercontent.com/ViperOS/VPapers/vpapers/Light/wall8.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/ViperOS/VPapers/vpapers/Light/wall8.jpg",
-      "collections": "light"
+      "name": "Wallpaper colorful 2",
+      "author": "Esrom Tech",
+      "url": "https://raw.githubusercontent.com/ViperOS/VPapers/vpapers/Colorful/wall2.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/ViperOS/VPapers/vpapers/Colorful/wall2.jpg",
+      "collections": "colorful"
+    },
+    {
+      "name": "Wallpaper colorful 3",
+      "author": "LouuZ",
+      "url": "https://raw.githubusercontent.com/ViperOS/VPapers/vpapers/Colorful/wall3.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/ViperOS/VPapers/vpapers/Colorful/wall3.jpg",
+      "collections": "colorful"
+    },
+    {
+      "name": "Wallpaper colorful 4",
+      "author": "Sourav Gope",
+      "url": "https://raw.githubusercontent.com/ViperOS/VPapers/vpapers/Colorful/wall4.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/ViperOS/VPapers/vpapers/Colorful/wall4.jpg",
+      "collections": "colorful"
+    },
+    {
+      "name": "Wallpaper colorful 5",
+      "author": "Sourav Gope",
+      "url": "https://raw.githubusercontent.com/ViperOS/VPapers/vpapers/Colorful/wall5.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/ViperOS/VPapers/vpapers/Colorful/wall5.jpg",
+      "collections": "colorful"
+    },
+    {
+      "name": "Wallpaper colorful 6",
+      "author": "Sourav Gope",
+      "url": "https://raw.githubusercontent.com/ViperOS/VPapers/vpapers/Colorful/wall6.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/ViperOS/VPapers/vpapers/Colorful/wall6.jpg",
+      "collections": "colorful"
+    },
+    {
+      "name": "Wallpaper colorful 7",
+      "author": "Sourav Gope",
+      "url": "https://raw.githubusercontent.com/ViperOS/VPapers/vpapers/Colorful/wall7.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/ViperOS/VPapers/vpapers/Colorful/wall7.jpg",
+      "collections": "colorful"
     }
   ]
 }
